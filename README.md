@@ -12,9 +12,9 @@ After the article is published, the code will be organized and made publicly ava
 
 ## Prediction maps
 The COD prediction results of our HiSFFnet are stored in Quark Drive. Please check follows.
-链接：https://pan.quark.cn/s/60af2c804b70
-提取码：jkQc
+Link：https://pan.quark.cn/s/60af2c804b70
+Access code：jkQc
 
 The Polpy prediction results of our HiSFFnet are stored in Quark Drive. Please check follows.
-链接：https://pan.quark.cn/s/047fa4801fb3
-提取码：35v7
+Link：https://pan.quark.cn/s/047fa4801fb3
+Access code：35v7
