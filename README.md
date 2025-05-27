@@ -18,5 +18,3 @@ The COD prediction results of our HiSFFnet are stored in Quark Drive. Please che
 The Polpy prediction results of our HiSFFnet are stored in Quark Drive. Please check follows.
 链接：https://pan.quark.cn/s/047fa4801fb3
 提取码：35v7
-## Acknowledgement
-This repository is built using the ZoomNeXt([https://github.com/lartpang/ZoomNeXt]) and HGINet([https://github.com/Garyson1204/HGINet]) repositories.
