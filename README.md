@@ -6,6 +6,10 @@ In this paper, we propose HiSFFNet for camouflaged object detection, effectively
 The COD datasets CAMO, CHAMELEON, COD10K, and NC4K are publicly available on the internet; detailed addresses are not provided here. If interested, you can obtain them according to the official instructions at the corresponding reference in the text.
 ## Code Available
 After the article is published, the code will be organized and made publicly available soon. If interested, you can contact the author in advance to make a request, and collaboration is welcome.
+## Results
+![image](https://github.com/user-attachments/assets/1dfcc536-f4ec-430e-9b66-5a3cd65e4d3d)
+![image](https://github.com/user-attachments/assets/4223754d-4818-47e9-a9d4-2ed4d4780b08)
+
 ## Prediction maps
 The COD prediction results of our HiSFFnet are stored in Quark Drive. Please check follows.
 链接：https://pan.quark.cn/s/60af2c804b70
